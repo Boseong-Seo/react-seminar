@@ -17,6 +17,8 @@
 [React_0_PPT]: https://docs.google.com/presentation/d/1QxcPfGB8fj_vI6U4_1zM9DwWEEGONt8k7mk5ttEA55A/edit?usp=sharing
 [React_0_Video1]: https://youtu.be/Q-OpudGgOrA 
 [React_0_Video2]: https://youtu.be/WjX1E7NvtlU
+[React_0_Assignment1]: ./seminar-0/assignment-0A.md
+[React_0_Assignment2]: ./seminar-0/assignment-0B.md
 
 [React_1_PPT]: https://docs.google.com/presentation/d/1Hv34EJTSGge8KyoIuLq-P0mb_gaN1lEWgFVgzw4kR20/edit?usp=sharing
 [React_1_Video]: https://youtu.be/7o0TZJA0zoA
@@ -34,12 +36,14 @@
 [React_5_Video]: https://youtu.be/9-e-dCf7EC4
 
 
-| 회차     | 자료               | 영상                                              |                        과제                              |      진행 현황     |
-| -------  |:-----------------:|:-------------------------------------------------:|:--------------------------------------------------------:|:------------------:|
-| seminar0 |[PPT][React_0_PPT] |[[영상1]][React_0_Video1]  [[영상2]][React_0_Video2]|[과제A][React_0_Assignment1]  [과제B][React_0_Assignment2]|:white_large_square:|
-| seminar1 |[PPT][React_1_PPT] |[[영상]][React_1_Video]                             |[과제][React_1_Assignment]                                |:white_large_square:|
-| seminar2 |[PPT][React_2_PPT] |[[2.5차시 영상]][React_2_Video]                     |[과제][React_2_Assignment]                                |:white_large_square:|  
-| seminar3 |[PPT][React_3_PPT] |[[영상]][React_3_Video]                             |[과제][React_3_Assignment]                                |:white_large_square:|
-| seminar4 |[PPT][React_4_PPT] |[[영상]][React_4_Video]                             |[과제][React_4_Assignment]                                |:white_large_square:|
-| seminar5 |[PPT][React_5_PPT] |[[영상]][React_5_Video]                             |[과제][React_5_Assignment]                                |:white_large_square:|
+| 회차 | 일정 | 자료 | 영상 | 과제 |  진행 현황  |
+| ---- |:----:|:---:|:----:|:----:|:----------:|
+| seminar0 |02/15 ~ 02/28|[PPT][React_0_PPT] |[[영상1]][React_0_Video1] [[영상2]][React_0_Video2]|[[과제A]][React_0_Assignment1][[과제B]][React_0_Assignment2]|:heavy_check_mark:|
+| seminar1 |03/01 ~ 03/14| [PPT][React_1_PPT] | [[영상]][React_1_Video]          |     |:white_large_square:|
+| seminar2 |03/15 ~ 04/11| [PPT][React_2_PPT] | [[2.5차시 영상]][React_2_Video]  |     |:white_large_square:|  
+| seminar3 |04/12 ~ 04/25| [PPT][React_3_PPT] | [[영상]][React_3_Video]          |     |:white_large_square:|
+| seminar4 |04/26 ~ 05/09| [PPT][React_4_PPT] | [[영상]][React_4_Video]          |     |:white_large_square:|
+| seminar5 |05/10 ~ 05/23| [PPT][React_5_PPT] | [[영상]][React_5_Video]          |     |:white_large_square:|
 
+- [참고] _진행 현황_ 열에 쓰이는 이모지에는 아래의 의미가 담겨있음
+  + :white_large_square: : 미진행 / :heavy_check_mark: : 진행 중 / :white_check_mark: : 진행 완료
